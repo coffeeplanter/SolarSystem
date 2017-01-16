@@ -1,2 +1,2 @@
-# MyCV
-Ths is an Android application showing my key skills in this kind of development.
+# SolarSystem
+Ths is an Android application showing planets of our Solar System in RecyclerView with CardView items.
