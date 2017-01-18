@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://en.wikipedia.org/wiki/Mercury_(planet)</item>
+        <item>https://en.wikipedia.org/wiki/Venus</item>
+        <item>https://en.wikipedia.org/wiki/Earth</item>
+        <item>https://en.wikipedia.org/wiki/Mars</item>
+        <item>https://en.wikipedia.org/wiki/Jupiter</item>
+        <item>https://en.wikipedia.org/wiki/Saturn</item>
+        <item>https://en.wikipedia.org/wiki/Uranus</item>
+        <item>https://en.wikipedia.org/wiki/Neptune</item>
+    </string-array>
+</resources>

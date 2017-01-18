@@ -47,10 +47,8 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.PlanetViewHol
     // Заменяет контент отдельного view (вызывается layout manager-ом)
     @Override
     public void onBindViewHolder(PlanetViewHolder holder, int position) {
-
         holder.mPlanetImage.setImageResource(planets.get(position).getPlanetImageId());
         holder.mPlanetName.setText(planets.get(position).getPlanetName());
-
     }
 
     // Возвращает размер данных (вызывается layout manager-ом)
@@ -63,5 +61,7 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.PlanetViewHol
     public void onAttachedToRecyclerView(RecyclerView recyclerView) {
         super.onAttachedToRecyclerView(recyclerView);
     }
+
+
 
 }
