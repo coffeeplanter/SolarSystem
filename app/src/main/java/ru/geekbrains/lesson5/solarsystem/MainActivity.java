@@ -47,8 +47,6 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.addOnItemTouchListener(new RecyclerItemClickListener(this, mRecyclerView, new RecyclerItemClickListener.OnItemClickListener() {
             @Override
             public void onItemClick(View view, int position) {
-                //Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(urlsArray[position]));
-                //startActivity(intent);
                 Intent intent = new Intent(MainActivity.this, WebActivity.class);
                 intent.putExtra(WebActivity.WEB_LINK, urlsArray[position]);
                 startActivity(intent);
@@ -64,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     private void initializeData(){
         String[] planetsArray = getResources().getStringArray(R.array.planets);
         planets = new ArrayList<>();
-        planets.add(new Planet("Венера", R.drawable.mercury));
+        planets.add(new Planet(planetsArray[0], R.drawable.mercury));
         planets.add(new Planet(planetsArray[1], R.drawable.venus));
         planets.add(new Planet(planetsArray[2], R.drawable.earth));
         planets.add(new Planet(planetsArray[3], R.drawable.mars));
