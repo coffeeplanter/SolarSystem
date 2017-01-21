@@ -30,13 +30,11 @@ public class MainActivity extends AppCompatActivity {
 
         initializeData();
 
-        //String[] myDataset = getDataSet();
-
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerview);
 
         // если мы уверены, что изменения в контенте не изменят размер layout-а RecyclerView
         // передаем параметр true - это увеличивает производительность
-        //mRecyclerView.setHasFixedSize(true);
+        mRecyclerView.setHasFixedSize(true);
 
         // используем linear layout manager
         mLayoutManager = new LinearLayoutManager(this);
@@ -61,15 +59,31 @@ public class MainActivity extends AppCompatActivity {
 
     private void initializeData(){
         String[] planetsArray = getResources().getStringArray(R.array.planets);
+        int[] planetImagesArray = {
+            R.drawable.mercury,
+            R.drawable.venus,
+            R.drawable.earth,
+            R.drawable.mars,
+            R.drawable.jupiter,
+            R.drawable.saturn,
+            R.drawable.uranus,
+            R.drawable.neptune,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars,
+            R.drawable.mars
+        };
         planets = new ArrayList<>();
-        planets.add(new Planet(planetsArray[0], R.drawable.mercury));
-        planets.add(new Planet(planetsArray[1], R.drawable.venus));
-        planets.add(new Planet(planetsArray[2], R.drawable.earth));
-        planets.add(new Planet(planetsArray[3], R.drawable.mars));
-        planets.add(new Planet(planetsArray[4], R.drawable.jupiter));
-        planets.add(new Planet(planetsArray[5], R.drawable.saturn));
-        planets.add(new Planet(planetsArray[6], R.drawable.uranus));
-        planets.add(new Planet(planetsArray[7], R.drawable.neptune));
+        for (int i = 0; i < planetsArray.length; i++) {
+            planets.add(new Planet(planetsArray[i], planetImagesArray[i]));
+        }
     }
 
 }

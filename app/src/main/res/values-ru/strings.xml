@@ -2,12 +2,25 @@
 <resources>
     <string name="app_name">Планеты Солнечной системы</string>
     <string name="planet">Изображение планеты</string>
-    <string name="earth">Земля</string>
-    <string name="jupiter">Юпитер</string>
-    <string name="mars">Марс</string>
+    <string name="dwarf_planet">Карликовая планета</string>
+    <string name="dwarf_planet_candidate">Кандидат в карликовые планеты</string>
     <string name="mercury">Меркурий</string>
-    <string name="neptune">Нептун</string>
+    <string name="venus">Венера</string>
+    <string name="earth">Земля</string>
+    <string name="mars">Марс</string>
+    <string name="jupiter">Юпитер</string>
     <string name="saturn">Сатурн</string>
     <string name="uranus">Уран</string>
-    <string name="venus">Венера</string>
+    <string name="neptune">Нептун</string>
+    <string name="ceres">Церера</string>
+    <string name="orcus">Орк</string>
+    <string name="pluto">Плутон</string>
+    <string name="ms4">2002 MS₄</string>
+    <string name="salacia">Салация</string>
+    <string name="haumea">Хаумеа</string>
+    <string name="quaoar">Квавар</string>
+    <string name="makemake">Макемаке</string>
+    <string name="or10">2007 OR₁₀</string>
+    <string name="eris">Эрида</string>
+    <string name="sedna">Седна</string>
 </resources>

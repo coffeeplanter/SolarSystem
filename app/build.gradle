@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "ru.geekbrains.lesson5.SolarSystem"
+        applicationId "ru.geekbrains.lesson5.solarsystem"
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 1

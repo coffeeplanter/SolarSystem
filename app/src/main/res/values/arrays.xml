@@ -9,6 +9,17 @@
         <item>Saturn</item>
         <item>Uranus</item>
         <item>Neptune</item>
+        <item>Ceres</item>
+        <item>Pluto</item>
+        <item>Haumea</item>
+        <item>Makemake</item>
+        <item>Eris</item>
+        <item>Orcus</item>
+        <item>2002 MS₄</item>
+        <item>Salacia</item>
+        <item>Quaoar</item>
+        <item>2007 OR₁₀</item>
+        <item>Sedna</item>
     </string-array>
     <string-array name="urls">
         <item>https://en.wikipedia.org/wiki/Mercury_(planet)</item>
@@ -19,5 +30,16 @@
         <item>https://en.wikipedia.org/wiki/Saturn</item>
         <item>https://en.wikipedia.org/wiki/Uranus</item>
         <item>https://en.wikipedia.org/wiki/Neptune</item>
+        <item>https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)</item>
+        <item>https://en.wikipedia.org/wiki/Pluto</item>
+        <item>https://en.wikipedia.org/wiki/Haumea</item>
+        <item>https://en.wikipedia.org/wiki/Makemake</item>
+        <item>https://en.wikipedia.org/wiki/Eris_(dwarf_planet)</item>
+        <item>https://en.wikipedia.org/wiki/90482_Orcus</item>
+        <item>https://en.wikipedia.org/wiki/(307261)_2002_MS4</item>
+        <item>https://en.wikipedia.org/wiki/120347_Salacia</item>
+        <item>https://en.wikipedia.org/wiki/50000_Quaoar</item>
+        <item>https://en.wikipedia.org/wiki/(225088)_2007_OR10</item>
+        <item>https://en.wikipedia.org/wiki/90377_Sedna</item>
     </string-array>
 </resources>
