@@ -16,7 +16,7 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     // класс view holder-а с помощью которого мы получаем ссылку на каждый элемент
     // отдельного пункта списка
-    static class PlanetViewHolder extends RecyclerView.ViewHolder {
+    private static class PlanetViewHolder extends RecyclerView.ViewHolder {
         CardView mCardView;
         TextView mPlanetName;
         ImageView mPlanetImage;
@@ -28,7 +28,7 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
         }
     }
 
-    static class DwarfPlanetViewHolder extends RecyclerView.ViewHolder {
+    private static class DwarfPlanetViewHolder extends RecyclerView.ViewHolder {
         CardView mCardView;
         TextView mPlanetName;
         TextView mPlanetType;
@@ -76,9 +76,6 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
                 // тут можно программно менять атрибуты лэйаута (size, margins, paddings и др.)
                 return new PlanetViewHolder(v);
             case 1:
-                View v1 = LayoutInflater.from(parent.getContext())
-                        .inflate(R.layout.planet_item_2, parent, false);
-                return new DwarfPlanetViewHolder(v1);
             case 2:
                 View v3 = LayoutInflater.from(parent.getContext())
                         .inflate(R.layout.planet_item_2, parent, false);
