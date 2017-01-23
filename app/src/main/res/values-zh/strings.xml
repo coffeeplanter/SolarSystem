@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">太阳系行星</string>
+    <string name="planet">行星的形象</string>
     <string name="dwarf_planet">矮行星</string>
     <string name="dwarf_planet_candidate">矮人行星的候选人</string>
-    <string name="planet">行星图像</string>
     <string name="mercury">水星</string>
     <string name="venus">金星</string>
     <string name="earth">地球</string>

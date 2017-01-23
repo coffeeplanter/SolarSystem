@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+        <item>Ceres</item>
+        <item>Plutão</item>
+        <item>Haumea</item>
+        <item>Makemake</item>
+        <item>Éris</item>
+        <item>Orco</item>
+        <item>2002 MS₄</item>
+        <item>Salácia</item>
+        <item>Quaoar</item>
+        <item>2007 OR₁₀</item>
+        <item>Sedna</item>
+    </string-array>
+    <string-array name="urls" formatted="false">
+        <item>https://pt.wikipedia.org/wiki/Merc%C3%BArio_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/V%C3%A9nus_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/Terra</item>
+        <item>https://pt.wikipedia.org/wiki/Marte_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/J%C3%BApiter_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/Saturno_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/Urano_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/Neptuno_(planeta)</item>
+        <item>https://pt.wikipedia.org/wiki/Ceres_(planeta_an%C3%A3o)</item>
+        <item>https://pt.wikipedia.org/wiki/Plut%C3%A3o</item>
+        <item>https://pt.wikipedia.org/wiki/Haumea</item>
+        <item>https://pt.wikipedia.org/wiki/Makemake</item>
+        <item>https://pt.wikipedia.org/wiki/%C3%89ris_(planeta_an%C3%A3o)</item>
+        <item>https://pt.wikipedia.org/wiki/90482_Orco</item>
+        <item>https://pt.wikipedia.org/wiki/(307261)_2002_MS4</item>
+        <item>https://pt.wikipedia.org/wiki/120347_Sal%C3%A1cia</item>
+        <item>https://pt.wikipedia.org/wiki/50000_Quaoar</item>
+        <item>https://pt.wikipedia.org/wiki/(225088)_2007_OR10</item>
+        <item>https://pt.wikipedia.org/wiki/90377_Sedna</item>
+    </string-array>
+</resources>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Solar System planets</string>
-    <string name="planet">Planet image</string>
-    <string name="dwarf_planet">Dwarf planet</string>
-    <string name="dwarf_planet_candidate">Candidate for dwarf planet</string>
-    <string name="mercury">Mercury</string>
+    <string name="app_name">Planet Tata Surya</string>
+    <string name="planet">Gambar dari planet</string>
+    <string name="dwarf_planet">Planet katai</string>
+    <string name="dwarf_planet_candidate">Calon planet kerdil</string>
+    <string name="mercury">Merkurius</string>
     <string name="venus">Venus</string>
-    <string name="earth">Earth</string>
+    <string name="earth">Bumi</string>
     <string name="mars">Mars</string>
-    <string name="jupiter">Jupiter</string>
-    <string name="saturn">Saturn</string>
+    <string name="jupiter">Yupiter</string>
+    <string name="saturn">Saturnus</string>
     <string name="uranus">Uranus</string>
-    <string name="neptune">Neptune</string>
+    <string name="neptune">Neptunus</string>
     <string name="ceres">Ceres</string>
     <string name="orcus">Orcus</string>
     <string name="pluto">Pluto</string>

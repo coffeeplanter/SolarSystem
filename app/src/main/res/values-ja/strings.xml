@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">太陽系惑星</string>
+    <string name="planet">惑星のイメージ</string>
+    <string name="dwarf_planet">準惑星</string>
+    <string name="dwarf_planet_candidate">矮星の候補者</string>
+    <string name="mercury">水星</string>
+    <string name="venus">金星</string>
+    <string name="earth">地球</string>
+    <string name="mars">火星</string>
+    <string name="jupiter">木星</string>
+    <string name="saturn">土星</string>
+    <string name="uranus">天王星</string>
+    <string name="neptune">海王星</string>
+    <string name="ceres">ケレス (準惑星)</string>
+    <string name="orcus">オルクス (小惑星)</string>
+    <string name="pluto">冥王星</string>
+    <string name="ms4">2002 MS₄</string>
+    <string name="salacia">サラキア (小惑星)</string>
+    <string name="haumea">ハウメア (準惑星)</string>
+    <string name="quaoar">クワオアー</string>
+    <string name="makemake">マケマケ (準惑星)</string>
+    <string name="or10">2007 OR₁₀</string>
+    <string name="eris">エリス (準惑星)</string>
+    <string name="sedna">セドナ (小惑星)</string>
+</resources>

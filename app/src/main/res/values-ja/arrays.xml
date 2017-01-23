@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>水星</item>
+        <item>金星</item>
+        <item>地球</item>
+        <item>火星</item>
+        <item>木星</item>
+        <item>土星</item>
+        <item>天王星</item>
+        <item>海王星</item>
+        <item>ケレス (準惑星)</item>
+        <item>冥王星</item>
+        <item>ハウメア (準惑星)</item>
+        <item>マケマケ (準惑星)</item>
+        <item>エリス (準惑星)</item>
+        <item>オルクス (小惑星)</item>
+        <item>2002 MS₄</item>
+        <item>サラキア (小惑星)</item>
+        <item>クワオアー</item>
+        <item>2007 OR₁₀</item>
+        <item>セドナ (小惑星)</item>
+    </string-array>
+    <string-array name="urls" formatted="false">
+        <item>https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E9%87%91%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83</item>
+        <item>https://ja.wikipedia.org/wiki/%E7%81%AB%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8E%8B%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E6%B5%B7%E7%8E%8B%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AC%E3%82%B9_(%E6%BA%96%E6%83%91%E6%98%9F)</item>
+        <item>https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E6%98%9F</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A6%E3%83%A1%E3%82%A2_(%E6%BA%96%E6%83%91%E6%98%9F)</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%9E%E3%82%B1_(%E6%BA%96%E6%83%91%E6%98%9F)</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B9_(%E6%BA%96%E6%83%91%E6%98%9F)</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%82%AF%E3%82%B9_(%E5%B0%8F%E6%83%91%E6%98%9F)</item>
+        <item>https://en.wikipedia.org/wiki/(307261)_2002_MS4</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%AD%E3%82%A2_(%E5%B0%8F%E6%83%91%E6%98%9F)</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AF%E3%82%AA%E3%82%A2%E3%83%BC</item>
+        <item>https://ja.wikipedia.org/wiki/(225088)_2007_OR10</item>
+        <item>https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%89%E3%83%8A_(%E5%B0%8F%E6%83%91%E6%98%9F)</item>
+    </string-array>
+</resources>

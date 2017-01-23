@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Yupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+        <item>Ceres</item>
+        <item>Pluto</item>
+        <item>Haumea</item>
+        <item>Makemake</item>
+        <item>Eris</item>
+        <item>Orcus</item>
+        <item>2002 MS₄</item>
+        <item>Salacia</item>
+        <item>Quaoar</item>
+        <item>2007 OR₁₀</item>
+        <item>Sedna</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://id.wikipedia.org/wiki/Merkurius</item>
+        <item>https://id.wikipedia.org/wiki/Venus</item>
+        <item>https://id.wikipedia.org/wiki/Bumi</item>
+        <item>https://id.wikipedia.org/wiki/Mars</item>
+        <item>https://id.wikipedia.org/wiki/Yupiter</item>
+        <item>https://id.wikipedia.org/wiki/Saturnus</item>
+        <item>https://id.wikipedia.org/wiki/Uranus</item>
+        <item>https://id.wikipedia.org/wiki/Neptunus</item>
+        <item>https://id.wikipedia.org/wiki/Ceres</item>
+        <item>https://id.wikipedia.org/wiki/Pluto</item>
+        <item>https://id.wikipedia.org/wiki/Haumea_(planet_katai)</item>
+        <item>https://id.wikipedia.org/wiki/Makemake_(planet_katai)</item>
+        <item>https://id.wikipedia.org/wiki/Eris_(planet_katai)</item>
+        <item>https://id.wikipedia.org/wiki/90482_Orcus</item>
+        <item>https://id.wikipedia.org/wiki/(307261)_2002_MS4</item>
+        <item>https://id.wikipedia.org/wiki/120347_Salacia</item>
+        <item>https://id.wikipedia.org/wiki/50000_Quaoar</item>
+        <item>https://id.wikipedia.org/wiki/(225088)_2007_OR10</item>
+        <item>https://id.wikipedia.org/wiki/90377_Sedna</item>
+    </string-array>
+</resources>
