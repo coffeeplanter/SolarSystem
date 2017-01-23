@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>水星</item>
+        <item>金星</item>
+        <item>地球</item>
+        <item>火星</item>
+        <item>木星</item>
+        <item>土星</item>
+        <item>天王星</item>
+        <item>海王星</item>
+        <item>穀神星</item>
+        <item>冥王星</item>
+        <item>妊神星</item>
+        <item>鸟神星</item>
+        <item>阋神星</item>
+        <item>亡神星</item>
+        <item>2002 MS₄</item>
+        <item>潫神星</item>
+        <item>创神星</item>
+        <item>2007 OR₁₀</item>
+        <item>賽德娜</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://zh.wikipedia.org/wiki/%E6%B0%B4%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83</item>
+        <item>https://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%9C%9F%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%8E%8B%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E6%B5%B7%E7%8E%8B%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E7%A9%80%E7%A5%9E%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%A6%8A%E7%A5%9E%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E9%B8%9F%E7%A5%9E%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E9%98%8B%E7%A5%9E%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E4%BA%A1%E7%A5%9E%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F307261</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F120347</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%88%9B%E7%A5%9E%E6%98%9F</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F225088</item>
+        <item>https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F90377</item>
+    </string-array>
+</resources>

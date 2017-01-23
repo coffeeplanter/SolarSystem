@@ -68,17 +68,17 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.saturn,
             R.drawable.uranus,
             R.drawable.neptune,
+            R.drawable.ceres,
+            R.drawable.pluto,
+            R.drawable.haumea,
+            R.drawable.makemake,
+            R.drawable.eris,
+            R.drawable.orcus,
             R.drawable.mars,
             R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars,
-            R.drawable.mars
+            R.drawable.quaoar,
+            R.drawable.dp2007or10,
+            R.drawable.sedna
         };
         planets = new ArrayList<>();
         for (int i = 0; i < planetsArray.length; i++) {

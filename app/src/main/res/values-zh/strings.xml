@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">太阳系行星</string>
+    <string name="dwarf_planet">矮行星</string>
+    <string name="dwarf_planet_candidate">矮人行星的候选人</string>
+    <string name="planet">行星图像</string>
+    <string name="mercury">水星</string>
+    <string name="venus">金星</string>
+    <string name="earth">地球</string>
+    <string name="mars">火星</string>
+    <string name="jupiter">木星</string>
+    <string name="saturn">土星</string>
+    <string name="uranus">天王星</string>
+    <string name="neptune">海王星</string>
+    <string name="ceres">穀神星</string>
+    <string name="orcus">亡神星</string>
+    <string name="pluto">冥王星</string>
+    <string name="ms4">2002 MS₄</string>
+    <string name="salacia">潫神星</string>
+    <string name="haumea">妊神星</string>
+    <string name="quaoar">创神星</string>
+    <string name="makemake">鸟神星</string>
+    <string name="or10">2007 OR₁₀</string>
+    <string name="eris">阋神星</string>
+    <string name="sedna">賽德娜</string>
+</resources>
