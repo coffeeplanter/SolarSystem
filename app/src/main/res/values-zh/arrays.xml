@@ -21,7 +21,7 @@
         <item>2007 OR₁₀</item>
         <item>賽德娜</item>
     </string-array>
-    <string-array name="urls">
+    <string-array name="urls" formatted="false">
         <item>https://zh.wikipedia.org/wiki/%E6%B0%B4%E6%98%9F</item>
         <item>https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F</item>
         <item>https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83</item>

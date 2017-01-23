@@ -74,8 +74,8 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.makemake,
             R.drawable.eris,
             R.drawable.orcus,
-            R.drawable.mars,
-            R.drawable.mars,
+            R.drawable.dp2002ms4,
+            R.drawable.salacia,
             R.drawable.quaoar,
             R.drawable.dp2007or10,
             R.drawable.sedna
